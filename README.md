@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishuxd.
-- 👀 I’m interested in App Development.
-- 🌱 I’m currently learning DSA and Web Development.
-- 💞️ I’m looking to collaborate on Web Development.
+- 👀 I’m interested in App(IOS) Development.
+- 🌱 I’m currently learning DSA, Application and Web Development.
+- 💞️ I’m looking for people who are interested in these.
 - 📫 Reach me through : rishisrivastav7978@gmail.com
 
 <!---
